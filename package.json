@@ -1,0 +1,6 @@
+{
+  "name": "Watson socket-chat-example",
+  "version": "0.0.1",
+  "description": "my first Watson Assistant Web Interface using socket.io app",
+  "dependencies": {}
+}
